@@ -83,7 +83,7 @@ if (authorization("role") != true) {
                                             </div>
                                         </div>
                                         <div class="button">
-                                            <button type="submit">Tambah</button>
+                                            <button type="submit">Tambahqegeqg</button>
                                         </div>
                                     </div>
                             </form>
